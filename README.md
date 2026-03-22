@@ -79,7 +79,7 @@ ________________
          * DEBUG Mode: Ensure DEBUG = False in settings.py for production.
          * Secrets: Use environment variables for database passwords (do not hardcode in settings.py).
 ________________
-Developed with ❤️ by Riton
+Developed with ❤️ by KATUMBA ANDREW FELIX
 ________________
 📝 Final Tip for your PDF Documentation
 When you save this to your PDF, you can mention that this README is the "Standard Operating Procedure" (SOP) for your software. It shows that you understand documentation-driven development.
