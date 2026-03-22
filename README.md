@@ -1,6 +1,5 @@
 [readme.txt](https://github.com/user-attachments/files/26166966/readme.txt)
-A README.md is the face of your project. It tells other developers (and your future self) exactly how to get the app running in 5 minutes.
-Create a file named README.md in your root folder (C:\Users\Riton\mysite\README.md) and paste the following content. I've structured this professionally so it looks great on GitHub.
+
 ________________
 🎓 Student Management System
 A robust Full-Stack web application built with Django 6.0, PostgreSQL, and Docker. This project demonstrates a complete development-to-deployment workflow.
